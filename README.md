@@ -1,5 +1,5 @@
 Summary:
-Create new surveys and send them over recipients!
+Create new surveys and send them over to recipients!
 
 View site on: https://salty-falls-10619.herokuapp.com/
 
