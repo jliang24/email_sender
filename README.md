@@ -1,7 +1,9 @@
 Summary:
 Create new surveys and send them over to recipients!
 
-View site on: https://salty-falls-10619.herokuapp.com/
+View site on: [Email Sender](https://salty-falls-10619.herokuapp.com/)
+
+To add credits, use credit card number 4242 4242 4242 4242.
 
 Skills used:
 
